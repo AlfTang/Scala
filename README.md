@@ -1,5 +1,6 @@
 # Scala
 This is forked from my project in Github: https://github.com/AlfTang/Scala
+
 homework in "Functional Programming Principles in Scala" on Coursera
 
 Week 0: Example Assignment
